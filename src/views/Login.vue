@@ -26,7 +26,7 @@ export default {
     handleSubmit() {
       const { email, password, authenticate, $router } = this;
 
-      authenticate({ strategy: "local", email, password }).then(() => {
+      authenticate({ strategy: "local", email, password }).then(_ => {
         $router.push("/account");
       });
     }
