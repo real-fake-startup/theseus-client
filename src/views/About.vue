@@ -6,5 +6,10 @@
       <a href="https://github.com/mcaloger"><h2>Matthew Caloger</h2></a>
       <p>Project Manager & Full-Stack Developer</p>      
     </div>
+
+    <div>
+      <a href="https://github.com/DragonWraithus"><h2>Dragon Wraithus</h2></a>
+      <p>Peon & Rust Developer</p>
+    </div>
   </div>
 </template>
