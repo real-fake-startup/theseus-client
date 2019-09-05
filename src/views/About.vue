@@ -10,5 +10,10 @@
 			<a href="https://github.com/DragonWraithus"><h2>Dragon Wraithus</h2></a>
 			<p>Peon & Rust Developer</p>
 		</div>
+
+		<div>
+			<a href="https://github.com/J-Garcia-CPP"><h2>Josue Garcia</h2></a>
+			<p>Java Dev</p>      
+		</div>
 	</div>
 </template>
