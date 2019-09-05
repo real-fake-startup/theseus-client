@@ -13,7 +13,7 @@
 
 		<div>
 			<a href="https://github.com/J-Garcia-CPP"><h2>Josue Garcia</h2></a>
-			<p>Java Developer</p>      
+			<p>Java Dev</p>      
 		</div>
 	</div>
 </template>
