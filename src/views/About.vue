@@ -16,9 +16,16 @@
 			<p>Java Dev</p>
 		</div>
 
+
+		<div>
+			<a href="https://github.com/RayneDance"><h2>Alex Jordan</h2></a>
+			<p>Zug Zug</p>      
+		</div>
+
         <div>
             <a href="https://github.com/flyingsl0ths"><h2>Flying Sloths</h2></a>
             <p>Python Developer</p>
         </div>
+
 	</div>
 </template>
